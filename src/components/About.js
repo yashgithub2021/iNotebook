@@ -10,7 +10,7 @@ export const About = () => {
                 <img height={400} src={logo} className="card-img-top" alt="IMG" />
                 <div className="card-body">
                     <h2 className="card-title text-center">Name: Yash Barge</h2>
-                    {/* <p className="card-text ">Full Stack Developer</p> */}
+
                 </div>
                 <ul className="list-group list-group-flush">
                     <li className="list-group-item">Current student in MIT WPU for Bachelor of
