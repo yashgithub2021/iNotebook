@@ -46,10 +46,6 @@ export const Navbar = () => {
                                 Welcome {name}
                             </button>
                             <ul className="dropdown-menu dropdown-menu-dark">
-                                {/* <li><a className="dropdown-item" href="#">Action</a></li>
-                                <li><a className="dropdown-item" href="#">Another action</a></li>
-                                <li><a className="dropdown-item" href="#">Something else here</a></li> 
-                                <li><hr className="dropdown-divider" /></li>*/}
                                 <li><Link onClick={logout} className="dropdown-item" to="/login" role="button">Logout</Link></li>
                             </ul>
                         </div>
