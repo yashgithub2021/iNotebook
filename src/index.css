@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+i {
+  cursor: pointer;
+}
+
+.fa-trash {
+  color: red;
+}
+
+.fa-pen-to-square {
+  color: green;
+}
+
+.img-card {
+  width: 25rem;
+  left: 35%;
+
+}
+
+.about {
+  align-items: center;
+}
